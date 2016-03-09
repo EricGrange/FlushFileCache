@@ -1,7 +1,7 @@
 FlushFileCache
 ==============
 
-Simple Windows Utility to Flush the Windows File Cage (and more)
+Simple Windows Utility to Flush the Windows File Cache (and more)
 
 For more details and pre-compiled binaries, see:
 
