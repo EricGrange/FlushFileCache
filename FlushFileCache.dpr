@@ -8,7 +8,7 @@ program FlushFileCache;
 {$RTTI EXPLICIT METHODS([]) PROPERTIES([]) FIELDS([])}
 
 uses
-   Windows;
+   Winapi.Windows;
 
 type
    SYSTEM_INFORMATION_CLASS = (
